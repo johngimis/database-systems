@@ -1,0 +1,3 @@
+use("wine");
+
+db.tastings.find({}).count();
